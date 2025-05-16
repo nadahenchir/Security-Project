@@ -1,5 +1,5 @@
 # Security-Project
-Password Strength Checker 💪🔐
+#Password Strength Checker 💪🔐
 
 Welcome to the Password Strength Checker project! This powerful web application is designed to evaluate the strength of user-generated passwords based on OWASP guidelines. It provides real-time feedback and actionable suggestions to help users create secure and robust passwords.
 
