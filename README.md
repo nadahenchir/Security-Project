@@ -1,26 +1,36 @@
 # Security-Project
 Password Strength Checker 💪🔐
 
-Welcome to the Password Strength Checker project! This powerful tool is designed to help you assess the strength of your passwords and ensure your online security.
+Welcome to the Password Strength Checker project! This powerful web application is designed to evaluate the strength of user-generated passwords based on OWASP guidelines. It provides real-time feedback and actionable suggestions to help users create secure and robust passwords.
+
 
 Project Purpose 📋
-The purpose of this project is to provide you with an easy-to-use tool to evaluate the strength of your passwords. Whether you're creating a new password or checking the security of an existing one, our Password Strength Checker has you covered. With this tool, you can make sure your online accounts are safe from potential threats.
 
-Design Tools 🎨
-We've used industry-standard design tools to create an intuitive and visually appealing user interface. Our design team leveraged Figma and Photoshop to craft a user-friendly experience.
+The goal of this project is to enhance online security awareness by providing an interactive and educational tool. Whether you're creating a new password or testing an existing one, this tool gives you detailed insights into password complexity, potential vulnerabilities, and how to strengthen your credentials.
+
 
 Technologies Used 💻
+
 HTML
 CSS
 JavaScript
-jQuery
-Bootstrap
+Python
+Flask 
+
+
 Project Live Location 🌐
+
 You can access the live version of this project at Password Strength Checker. Try it out and enhance your password security!
+https://nadahenchir.pythonanywhere.com/?fbclid=IwY2xjawKUa01leHRuA2FlbQIxMABicmlkETFGUzZUTVZDOXNidERxSXpEAR6ICM3pAHM8q-s4aeIjKh16X6Rh498NZH2fcW3Vi6WdQOLPr
 
-📧 Get in Touch For inquiries, collaboration, or just to say hello, reach out to us at 📩 swamithedev@gmail.com.
 
-🌟 Portfolio Discover more of our fantastic projects at SwamiTheDev Portfolio. Your journey into the world of technology starts here!
+📧 Get in Touch For inquiries, collaboration, or just to say hello, reach out to us at 
+📩 nediamnajja.tbs@gmail.com
+📩 nadahenchir505@gmail.com
+📩
+   
 
 Thank You! 👏
+
+
 We appreciate you taking the time to explore our Password Strength Checker project. Your online security is our top priority, and we hope this tool helps you keep your accounts safe.
