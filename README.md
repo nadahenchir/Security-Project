@@ -2,13 +2,13 @@
 
 Welcome to the Password Strength Checker project! This powerful web application is designed to evaluate the strength of user-generated passwords based on OWASP guidelines. It provides real-time feedback and actionable suggestions to help users create secure and robust passwords.
 
----
+
 
 ## 📋 Project Purpose
 
 The goal of this project is to enhance online security awareness by providing an interactive and educational tool. Whether you're creating a new password or testing an existing one, this tool gives you detailed insights into password complexity, potential vulnerabilities, and how to strengthen your credentials.
 
----
+
 
 ## 💻 Technologies Used
 
@@ -18,14 +18,14 @@ The goal of this project is to enhance online security awareness by providing an
 - Python  
 - Flask  
 
----
+
 
 ## 🌐 Project Live Location
 
 You can access the live version of this project here:  
 🔗 [Password Strength Checker](https://nadahenchir.pythonanywhere.com)
 
----
+
 
 ## 📧 Get in Touch
 
@@ -35,7 +35,7 @@ For inquiries, collaboration, or to reach out:
 - 📩 nadahenchir505@gmail.com
 - 📩  
 
----
+
 
 ## 👏 Thank You!
 
