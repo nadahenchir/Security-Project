@@ -12,7 +12,7 @@ The goal of this project is to enhance online security awareness by providing an
 
 ## 💻 Technologies Used
 
-- HTML5  
+- HTML
 - CSS
 - JavaScript  
 - Python  
