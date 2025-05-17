@@ -33,7 +33,7 @@ For inquiries, collaboration, or to reach out:
 
 - 📩 nediamnajja.tbs@gmail.com  
 - 📩 nadahenchir505@gmail.com
-- 📩  
+- 📩 sebaiselima@gmail.com
 
 
 
